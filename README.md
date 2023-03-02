@@ -19,10 +19,10 @@ Over time the industry has really put the fear into people when it comes to patc
 
 Often, I see adversaries trying to use public cloud storage but make one clear mistake. They use the wrong one. Don’t bother building your infrastructure prior to landing in an enterprise as thanks to covid there’s a 99 per cent chance they are already using some form of public cloud storage whether its google drive or otherwise. Enumerate this then setup your infrastructure in the exact same place. This will get you past both detection and prevention mechanisms.  
 
-## Asterisks are your best friend
+## Parent/Child Process Relationships are our fav
 
-tbd
+How a parent file or process relates to the file or process its invoking is the biggest point of interest for a traditional analyst beyond file properties so its important you make these look as normal as possbile. That means no using your own binaries to launch other unknown binaries, no launching stuff in silly directories like temp or the desktop and download folders. If you want to use a file native to the system understand what it normally does first and keep to that behaviour. If that native file doesnt behave the way you want it dont use it just find another file.
 
 ## Only English
 
-tbd
+This one is super simple. Everytime you write something do it in a language thats not english particulary a english that doesnt translate well to english because analysts are ltierally going to just just run it through google translate so the more broken the translation the longer their response times.
