@@ -25,4 +25,4 @@ How a parent file or process relates to the file or process its invoking is the 
 
 ## Only English
 
-This one is super simple. Everytime you write something do it in a language thats not english particulary a english that doesnt translate well to english because analysts are ltierally going to just just run it through google translate so the more broken the translation the longer their response times.
+This one is super simple. Everytime you write something do it in a language thats not english particulary a language that doesnt translate well to english because analysts are ltierally going to just just run it through google translate so the more broken the translation the longer their response times. You can extend this to if your writing files or creating directories on a non english system use the native language.
