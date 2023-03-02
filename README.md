@@ -18,3 +18,11 @@ tbd
 ## Public Cloud Storage
 
 tbd
+
+## Asterisks are your best friend
+
+tbd
+
+## Only English
+
+tbd
