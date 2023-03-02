@@ -21,8 +21,8 @@ Often, I see adversaries trying to use public cloud storage but make one clear m
 
 ## Parent/Child Process Relationships are our fav
 
-How a parent file or process relates to the file or process its invoking is the biggest point of interest for a traditional analyst beyond file properties so its important you make these look as normal as possbile. That means no using your own binaries to launch other unknown binaries, no launching stuff in silly directories like temp or the desktop and download folders. If you want to use a file native to the system understand what it normally does first and keep to that behaviour. If that native file doesnt behave the way you want it dont use it just find another file.
+How a parent file or process relates to the file or processes its invoking is the biggest point of interest for a traditional analyst beyond file properties so it is important you make these look as normal as possible. That means no using your own binaries to launch other unknown binaries, no launching stuff in silly directories like temp or the desktop and download folders. If you want to use a file native to the system understand what it normally does first and keep to that behaviour. If that native file doesn’t behave the way you want it don’t use it just find another file.
 
 ## Only English
 
-This one is super simple. Everytime you write something do it in a language thats not english particulary a language that doesnt translate well to english because analysts are ltierally going to just just run it through google translate so the more broken the translation the longer their response times. You can extend this to if your writing files or creating directories on a non english system use the native language.
+This one is super simple. Every time you write something do it in a language that’s not English, particularly a language that doesnt translate well to English because analysts are literally going to just just run it through google translate so the more broken the translation the longer their response times. You can extend this to if you are writing files or creating directories on a non-english system use the native language.
