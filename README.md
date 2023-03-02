@@ -14,3 +14,7 @@ IT Support are often granted the exact same or even greater permissions than sec
 ## If its not on the internet dont patch it
 
 tbd
+
+## Public Cloud Storage
+
+tbd
