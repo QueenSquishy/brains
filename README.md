@@ -13,11 +13,11 @@ IT Support are often granted the exact same or even greater permissions than sec
 
 ## If its not on the internet dont patch it
 
-tbd
+Over time the industry has really put the fear into people when it comes to patching stuff (for the most part) but IT teams still use their own and often misguided criteria for what should be patched first. A perfect example of this is IT infrastructure that isn’t present on the internet. If you can find it in an org it will very likely not be up to date. The solarwinds attack is a great example of this as one of the largest mitigating factors was that people simply hadn’t updated the product in so long that they never received the back door. If your lucky this is doubly so for misconfigurations as well.
 
 ## Public Cloud Storage
 
-tbd
+Often, I see adversaries trying to use public cloud storage but make one clear mistake. They use the wrong one. Don’t bother building your infrastructure prior to landing in an enterprise as thanks to covid there’s a 99 per cent chance they are already using some form of public cloud storage whether its google drive or otherwise. Enumerate this then setup your infrastructure in the exact same place. This will get you past both detection and prevention mechanisms.  
 
 ## Asterisks are your best friend
 
