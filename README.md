@@ -29,4 +29,4 @@ This one is super simple. Every time you write something do it in a language tha
 
 ## Sandboxes kind of suck
 
-As an immediate point most commercial sandboxes list their supported file types freely on their website. Find these and just use files outside of these file types. Next make your payloads dont run if they exist in directories without non human names (like cxerteq2). Finally if your making phishing sites only enable redirects if the refer is from google.com this breaks basically all automated sandboxes.
+As an immediate point most commercial sandboxes list their supported file types freely on their website. Find these and just use files outside of these file types. Next make sure your payloads dont run if they exist in directories without non human names (like cxerteq2). Finally if your making phishing sites only enable redirects if the refer is from google.com this breaks basically all automated sandboxes.
